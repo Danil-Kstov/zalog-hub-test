@@ -6,7 +6,7 @@ type HeaderProps = {
 
 const Header = ({ onAddTask }: HeaderProps) => (
     <header className="header flex justify-between items-center p-4">
-       <a href="/" className="text-2xl font-bold text-blue-800">
+       <a href="/zalog-hub-test/" className="text-2xl font-bold text-blue-800">
            ZalogHubTest
        </a>
 
