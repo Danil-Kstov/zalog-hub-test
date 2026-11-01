@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+body{
+    background-color: #f0fdff;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    height: 100dvh;
+    display: flex;
+    flex-direction: column;
+}
